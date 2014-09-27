@@ -5,7 +5,7 @@ ling
 - LINQ tests in C++11. Based on code by Stanisław Adaszewski
 - Tiny. 30 LOC. Header-only.
 - Cross platform.
-- MIT licensed
+- BOOST licensed
 
 ### Todo
 - Add missing (all) queries

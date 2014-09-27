@@ -1,5 +1,5 @@
 // LINQ tests in C++11. Based on code by Stanisław Adaszewski
-// r-lyeh, mit licensed
+// r-lyeh, BOOST licensed
 
 #pragma once
 #include <boost/bind.hpp>
